@@ -1,7 +1,7 @@
 Instructions:
 Run:
     1. First type make in the command line to create the executable file.
-    2. Then type ./lab06 to start the program.
+    2. Then type ./fork to start the program.
     3. Then start typying your command along with any associated files.
     4. To exit the program, type exit.
 Clean:

@@ -1,4 +1,4 @@
-NAME = lab06
+NAME = fork
 FLAGS = -Wall -pedantic-errors
 
 cl: ${NAME}.c
